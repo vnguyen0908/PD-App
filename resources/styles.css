@@ -1,0 +1,30 @@
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+.tile-list-item {
+  height: 80;
+}
+
+.tile-list-item text {
+  height: 32;
+  font-family: System-Regular;
+  fill: "white";
+}
+
+.large-value {
+    font-family: Seville-Book;
+    font-size: 120;
+    fill: #F80070;
+}
+
+.updated {
+    font-family: Seville-Book;
+    font-size: 64;
+    fill: #ffffff;
+}
+#tumbler { }
+.item { height: 34%; }
+.item text { font-size: 80; fill: white;   }
